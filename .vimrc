@@ -31,6 +31,7 @@ let &t_EI = "\e[2 q"
 set backspace=indent,eol,start
 set tabstop=2
 set shiftwidth=2
+expandtab
 
 syntax enable
 set t_Co=256
